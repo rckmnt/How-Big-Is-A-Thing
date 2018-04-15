@@ -1,0 +1,390 @@
+Rabbit
+Raccoon
+Radiator
+Radio
+Radio Cassette Player
+Radish
+Rags
+Rail
+Rainbow Trout
+Raincoat
+Rat
+Rattlesnake
+Raven
+Ray
+Rearview Mirror
+Receipt
+Red Deer
+Red Fox
+Red Panda
+Red Squirrel
+Refrigerator
+Reindeer
+Remote
+Restaurant
+Rhinoceros
+Right Fielder
+Right Whale
+Ring
+River
+Road
+Roadrunner
+Roast
+Rod
+Roll Of Film
+Rolling Pin
+Roof
+Rook
+Room
+Rooster
+Root
+Roundworm
+Rubber Band
+Rubber Duck
+Rug
+Rugs
+Run
+Runner
+Rusty Nail
+Saber-toothed Cat
+Sail
+Sailboat
+Sailfish
+Salad
+Salamander
+Salmon
+Salt
+Sand Paper
+Sandal
+Saucer
+Save
+Savings
+Saw
+Sawfish
+Scale Insect
+Scallop
+Scarf
+School
+Scissors
+Scoreboard
+Scorpion
+Scotch Tape
+Scramble
+Screw
+Screw Driver
+Screwdriver
+Sea
+Sea Lion
+Sea Slug
+Sea Snail
+Seahorse
+Seal
+Seat
+Seat Belt
+Second Baseman
+Seed
+Serval
+Settee
+Shades
+Shampoo
+Shark
+Sharpie
+Shawl
+Sheep
+Sheets
+Shelf
+Ship
+Shirt
+Shirts
+Shoe
+Shoe Lace
+Shoes
+Short Stop
+Shoulders
+Shovel
+Shrew
+Shrimp
+Sidewalk
+Silkworm
+Silverfish
+Simmer
+Sink
+Sister
+Skate
+Sketch Pad
+Skin
+Skink
+Skirt
+Skunk
+Slacks
+Slide
+Slipper
+Slippers
+Sloth
+Slug
+Smelt
+Smoke Detector
+Snail
+Snake
+Sneakers
+Snipe
+Snow Leopard
+Soap
+Sock
+Sockeye Salmon
+Socks
+Soda Can
+Sofa
+Sole
+Son
+Soy Sauce Packet
+Spade
+Sparrow
+Spatula
+Speakers
+Speedometer
+Sperm Whale
+Spider
+Spider Monkey
+Spinach
+Spinosaurus
+Sponge
+Spoon
+Spoonbill
+Spoons
+Spring
+Square
+Squid
+Squirrel
+Stairs
+Stamp
+Star
+Star-nosed Mole
+Starfish
+Station
+Steal
+Steam
+Stegosaurus
+Stem
+Stepdaughter
+Stepmother
+Stepson
+Stereo System
+Stick
+Sticky Note
+Stingray
+Stoat
+Stocking
+Stockings
+Stomach
+Stop Sign
+Store
+Stork
+Strainer
+Strawberry
+Stream
+Street
+Street Lights
+Strike
+Strike Out
+Struthiomimus
+Sturgeon
+Styracosaurus
+Subway
+Suchomimus
+Sugar
+Sugar Glider
+Suit
+Suitcases
+Sumatran Rhinoceros
+Sun
+Sun Glasses
+Supermarket
+Supplies
+Swallow
+Swan
+Sweater
+Sweatshirt
+Sweeper
+Sweet Potato
+Sweet Roll
+Swift
+Swordfish
+Swordtail
+T-shirt
+Table
+Tablecloth
+Tables
+Tahr
+Tail
+Taillight
+Takin
+Tangerine
+Tapir
+Tarantula
+Tarsier
+Tasmanian Devil
+Taxi
+Teddies
+Teeth
+Telephone
+Television
+Teller
+Termite
+Tern
+Terrapin
+Textbook
+Thermometer
+Thermostat
+Third Baseman
+Thread
+Throat
+Throw
+Thrush
+Thumb
+Tick
+Ticket
+Tickets
+Tie
+Tiger
+Tiger Shark
+Tiglon
+Timer
+Timers
+Tire
+Tire Swing
+Tissue Box
+Tissues
+Titi
+Toad
+Toaster
+Toe
+Toe Ring
+Toes
+Toilet
+Toilet Paper
+Tomato
+Tongue
+Tooth
+Tooth Picks
+Toothbrush
+Toothpaste
+Tortoise
+Toucan
+Towel
+Towels
+Town
+Toys
+Train
+Train Station
+Trapdoor Spider
+Trash Can
+Tray
+Tree
+Tree Frog
+Triceratops
+Trousers
+Trout
+Truck
+Trunk
+Tuna
+Turkey
+Turn Signal
+Turnip
+Turtle
+Tv
+Twezzers
+Twister
+Tyrannosaurus Rex
+Uakari
+Umbrella
+Umbrella Bird
+Umpire
+Uncle
+Underclothes
+Underpants
+Undershirt
+Unicorn
+Urial
+Usb Drive
+Vacuum
+Valley
+Vampire Bat
+Vampire Squid
+Vaquita
+Vase
+Vault
+Velociraptor
+Vicuña
+Video Camera
+Video Games
+Viper
+Vise
+Vixen
+Vole
+Vulture
+Wagon
+Waist
+Walk
+Wall
+Wallaby
+Wallet
+Walrus
+Warbler
+Washer
+Washing Machine
+Wasp
+Watch
+Water Bottle
+Water Buffalo
+Water Chevrotain
+Waterbuck
+Waterfall
+Watermelon
+Weasel
+Whale
+Wheel
+Whip
+Whippet
+Whistle
+White Board
+White Out
+White Rhinoceros
+Whitefish
+Whooping Crane
+Wild Boar
+Wildcat
+Wildebeest
+Wildfowl
+Window
+Windshield
+Windshield Wiper
+Wing
+Wire
+Withdraw
+Wolf
+Wolverine
+Wombat
+Wood Lemming
+Woodchuck
+Woodpecker
+Woods
+Woolly Dormouse
+Woolly Hare
+Woolly Mammoth
+Woolly Rhinoceros
+Worm
+Wren
+Wrench
+X-ray Fish
+Yak
+Yapok
+Yellow Jacket
+Yellow Perch
+Zebra
+Zebra Duiker
+Zebra Finch
+Zebra Shark
+Zebu
+Zipper
+Zorilla

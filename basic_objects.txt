@@ -1,0 +1,1954 @@
+// all copied and pasted from various vocab websites
+// from https://www.randomlists.com/things
+cell phone
+scotch tape
+bookmark
+seat belt
+eye liner
+boom box
+outlet
+glow stick
+ice cube tray
+cork
+playing card
+puddle
+doll
+soda can
+beef
+fork
+shawl
+keyboard
+phone
+pencil
+box
+house
+conditioner
+table
+spoon
+street lights
+canvas
+television
+button
+mp3 player
+slipper
+toe ring
+thermometer
+apple
+CD
+rug
+stockings
+bottle
+flowers
+controller
+sponge
+bracelet
+sofa
+packing peanuts
+bowl
+truck
+sand paper
+newspaper
+soy sauce packet
+glass
+radio
+twister
+lip gloss
+greeting card
+headphones
+ring
+camera
+balloon
+plate
+floor
+sketch pad
+hair brush
+clamp
+bananas
+zipper
+needle
+sailboat
+wagon
+eraser
+leg warmers
+photo album
+sandal
+drill press
+soap
+food
+rusty nail
+deodorant
+bow
+mirror
+perfume
+checkbook
+watch
+pool stick
+charger
+thermostat
+rubber duck
+shovel
+candy wrapper
+hanger
+paper
+helmet
+mouse pad
+fridge
+magnet
+stop sign
+sun glasses
+flag
+ipod
+clothes
+tissue box
+pen
+candle
+chocolate
+drawer
+shoes
+face wash
+door
+car
+shoe lace
+pants
+money
+rubber band
+speakers
+pillow
+key chain
+book
+blouse
+washing machine
+buckel
+lace
+twezzers
+piano
+tire swing
+carrots
+blanket
+lamp shade
+tv
+model car
+thread
+clock
+vase
+USB drive
+computer
+paint brush
+purse
+lamp
+socks
+video games
+tomato
+teddies
+tooth picks
+knife
+fake flowers
+keys
+chalk
+nail file
+bottle cap
+remote
+bed
+screw
+water bottle
+brocolli
+nail clippers
+bag
+air freshener
+grid paper
+shirt
+cookie jar
+picture frame
+shampoo
+plastic fork
+chair
+sticky note
+chapter book
+glasses
+hair tie
+milk
+sidewalk
+mop
+clay pot
+lotion
+white out
+toothpaste
+bread
+cinder block
+cup
+credit card
+cat
+window
+coasters
+toilet
+wallet
+desk
+monitor
+toothbrush
+sharpie
+towel
+tree
+spring
+couch
+watch
+shoes
+shirt
+washing machine
+thread
+bag
+ring
+pool stick
+knife
+remote
+plate
+box
+cookie jar
+sun glasses
+fridge
+rubber duck
+computer
+outlet
+bookmark
+balloon
+spring
+flowers
+cork
+rusty nail
+house
+sketch pad
+bed
+vase
+fork
+puddle
+tomato
+canvas
+magnet
+screw
+twezzers
+sticky note
+teddies
+drawer
+radio
+bowl
+needle
+lamp shade
+key chain
+floor
+monitor
+white out
+lace
+spoon
+thermostat
+bracelet
+toothpaste
+clothes
+headphones
+stockings
+purse
+tv
+chocolate
+door
+sharpie
+stop sign
+pillow
+newspaper
+candle
+hair tie
+lip gloss
+blanket
+keys
+mouse pad
+deodorant
+chair
+bananas
+truck
+charger
+street lights
+tooth picks
+glass
+video games
+shoe lace
+model car
+scotch tape
+picture frame
+buckel
+greeting card
+hanger
+carrots
+tire swing
+mirror
+fake flowers
+piano
+money
+tissue box
+clay pot
+wagon
+mp3 player
+grid paper
+plastic fork
+hair brush
+toilet
+lotion
+beef
+nail clippers
+zipper
+eraser
+pencil
+air freshener
+rubber band
+sand paper
+soda can
+paint brush
+sailboat
+leg warmers
+food
+towel
+keyboard
+candy wrapper
+phone
+soy sauce packet
+sofa
+face wash
+glasses
+window
+camera
+toe ring
+bow
+mop
+cell phone
+twister
+desk
+cat
+socks
+glow stick
+rug
+perfume
+car
+pants
+USB drive
+nail file
+bottle cap
+apple
+table
+chapter book
+shawl
+seat belt
+clamp
+photo album
+sponge
+soap
+toothbrush
+chalk
+coasters
+credit card
+shampoo
+television
+blouse
+pen
+wallet
+doll
+checkbook
+water bottle
+sidewalk
+brocolli
+controller
+conditioner
+thermometer
+paper
+flag
+CD
+ice cube tray
+cup
+drill press
+button
+speakers
+helmet
+bread
+packing peanuts
+slipper
+bottle
+playing card
+book
+shovel
+cinder block
+tree
+couch
+eye liner
+sandal
+boom box
+ipod
+milk
+lamp
+clock
+outlet
+headphones
+USB drive
+shoe lace
+helmet
+soap
+truck
+glass
+clothes
+boom box
+spring
+plate
+magnet
+toilet
+box
+chapter book
+doll
+cork
+sofa
+cookie jar
+fridge
+shawl
+screw
+car
+door
+blouse
+leg warmers
+photo album
+sailboat
+towel
+bed
+tire swing
+slipper
+air freshener
+hair tie
+toothpaste
+nail clippers
+CD
+charger
+cat
+hanger
+sun glasses
+tomato
+sand paper
+mirror
+zipper
+computer
+couch
+piano
+puddle
+pants
+twezzers
+tissue box
+sponge
+checkbook
+key chain
+television
+ipod
+video games
+thread
+paper
+drill press
+keyboard
+window
+paint brush
+mop
+carrots
+cinder block
+pool stick
+sketch pad
+shampoo
+buckel
+water bottle
+rubber duck
+clock
+conditioner
+camera
+speakers
+picture frame
+table
+lip gloss
+sidewalk
+washing machine
+model car
+credit card
+fake flowers
+milk
+sticky note
+coasters
+clay pot
+sharpie
+house
+lace
+bread
+vase
+thermometer
+phone
+white out
+toothbrush
+greeting card
+knife
+bowl
+desk
+controller
+pillow
+bananas
+teddies
+brocolli
+beef
+bow
+spoon
+tv
+wallet
+glow stick
+drawer
+canvas
+clamp
+cell phone
+monitor
+soy sauce packet
+pen
+chalk
+twister
+eye liner
+button
+needle
+blanket
+chocolate
+deodorant
+stockings
+newspaper
+mouse pad
+remote
+street lights
+bag
+food
+shoes
+floor
+glasses
+perfume
+plastic fork
+lotion
+soda can
+hair brush
+wagon
+eraser
+rubber band
+rusty nail
+shirt
+seat belt
+book
+balloon
+grid paper
+face wash
+tooth picks
+flag
+socks
+bracelet
+candle
+bookmark
+packing peanuts
+mp3 player
+lamp shade
+bottle
+radio
+playing card
+tree
+flowers
+keys
+stop sign
+toe ring
+nail file
+money
+apple
+cup
+shovel
+purse
+bottle cap
+sandal
+pencil
+scotch tape
+rug
+chair
+thermostat
+lamp
+fork
+watch
+ice cube tray
+ring
+candy wrapper
+
+// From https://myvocabulary.com/word-list/household-items-vocabulary/
+Alarm clock
+Armoire
+Backpack
+Bedding
+Bedspread
+Binders
+Blankets
+Blinds
+Bookcase
+Books
+Broom
+Brush
+Bucket
+Calendar
+Candles
+Carpet
+Chair
+Chairs
+China
+Clock
+Coffee table
+Comb
+Comforter
+Computer
+Containers
+Couch
+Credenza
+Cup
+Curtains
+Cushions
+Desk
+Dish towel
+Dishwasher
+Door stop
+Drapes
+Dressers
+Drill
+Dryer
+Dust pan
+Duvet
+End tables
+Extension cord
+Fan
+Figurine
+File cabinet
+Fire extinguisher
+Flashlight
+Flatware
+Flowers
+Forks
+Furnace
+Games
+Glasses
+Hammer
+Heater
+Houseplant
+IPhone
+IPod
+Iron
+Ironing board
+Jewelry
+Knives
+Lamp
+Light bulbs
+Light switch
+Linens
+Magnets
+Markers
+Medicine
+Mementos
+Microwave
+Mop
+Mugs
+Musical instruments
+Napkins
+Nick-knacks
+Note paper
+Oven
+Paintings
+Pans
+Pants
+Paper
+Pen
+Pencil
+Phones
+Photographs
+Piano
+Pictures
+Pillows
+Pitcher
+Plants
+Plastic plates
+Plates
+Pliers
+Pots
+Prescriptions
+Radiator
+Radio
+Rags
+Refrigerator
+Rugs
+Saucer
+Saw
+Scissors
+Screw driver
+Settee
+Shades
+Sheets
+Shelf
+Shirts
+Shoes
+Smoke detector
+Sneakers
+Socks
+Sofa
+Speakers
+Spoons
+Suitcases
+Supplies
+Sweeper
+Tablecloth
+Tables
+Telephone
+Timers
+Tissues
+Toaster
+Toilet paper
+Toothbrush
+Toothpaste
+Towels
+Toys
+TV
+Vacuum
+Vase
+Washer
+Washing machine
+
+// From https://en.wikipedia.org/wiki/List_of_animals_by_common_name
+Aardvark
+Aardwolf
+African Buffalo
+African Elephant
+African Leopard
+African Wild Dog
+Albatross
+Albertosaurus
+Allosaurus
+Alligator
+Alpaca
+American Black Bear
+American Bison
+American Robin
+Anaconda
+Angelfish
+Anglerfish
+Ankylosaurus
+Ant
+Anteater
+Antelope
+Antlion
+Apatosaurus
+Arabian Leopard
+Arctic Fox
+Arctic Wolf
+Argentinosaurus
+Armadillo
+Asian Black Bear
+Asian Elephant
+Asp
+Axolotl
+Baboon
+Badger
+Bald Eagle
+Bandicoot
+Barnacle
+Barracuda
+Basilisk
+Bass
+Bat
+Bear
+Beaver
+Bedbug
+Bee
+Beetle
+Beluga
+Bison
+Blackbird
+Black panther
+Black widow
+Bluebird
+Blue Jay
+Black Rhinoceros
+Blue Whale
+Boa
+Boar
+Bobcat
+Bobolink
+Bonobo
+Booby
+Bornean Rhinoceros
+Box Jellyfish
+Bovid
+Buffalo
+Bug
+Brachiosaurus
+Brown Bear
+Bull
+Butterfly
+Buzzard
+Camel
+Camptosaurus
+Canada Goose
+Canid
+Cape Buffalo
+Capybara
+Cardinal
+Caribou
+Carnotaurus
+Carp
+Cat
+Catshark
+Caterpillar
+Catfish
+Cattle
+Centipede
+Ceratosaurus
+Chameleon
+Cheetah
+Chickadee
+Chicken
+Chimpanzee
+Chinchilla
+Chipmunk
+Coati
+Cicada
+Clam
+Clownfish
+Cobra
+Cockroach
+Cod
+Condor
+Constrictor
+Coral
+Corythosaurus
+Cougar
+Cow
+Coyote
+Coypu
+Crab
+Crane
+Crane Fly
+Crayfish
+Cricket
+Crocodile
+Crow
+Cuckoo
+Damselfly
+Deer
+Dhole
+Dingo
+Dinosaur
+Doedicurus
+Dodo
+Dog
+Dolphin
+Donkey
+Dormouse
+Dove
+Dragonfly
+Dragon
+Dromaeosaurus
+Duck
+Dung Beetle
+Eagle
+Earthworm
+Earwig
+Echidna
+Edmontonia
+Edmontosaurus
+Eel
+Egret
+Elephant
+Elephant Seal
+Elk
+Emu
+English Pointer
+Ermine
+European Bison
+Euoplocephalus
+Falcon
+Ferret
+Fennec Fox
+Finch
+Firefly
+Fish
+Flamingo
+Flea
+Fly
+Flying Fish
+Fowl
+Fox
+Frog
+Fruit bat
+Flying Squirrel
+Gamefowl
+Galliform
+Gallimimus
+Gazelle
+Gecko
+Gerbil
+Giant Panda Bear
+Giant Squid
+Gibbon
+Gila Monster
+Giraffe
+Glyptodon
+Goat
+Golden eagle
+Goldfish
+Goose
+Gopher
+Gorilla
+Grasshopper
+Great Blue Heron
+Great White Shark
+Grebe
+Grizzly Bear
+Ground Sloth
+Grouse
+Guan
+Guanaco
+Guineafowl
+Guinea pig
+Gull
+Guppy
+Haddock
+Hadrosaurus
+Halibut
+Hammerhead Shark
+Hamster
+Hare
+Harrier
+Hawk
+Hedgehog
+Hermit Crab
+Heron
+Herring
+Hippopotamus
+Hookworm
+Hornet
+Horse
+Hoverfly
+Human
+Hummingbird
+Humpback Whale
+Hyena
+Hyrax
+Iguana
+Iguanadon
+Ibis
+Indian Rhinoceros
+Jackal
+Jacana
+Jaguar
+Jay
+Javan Rhinoceros
+Jellyfish
+Jungle fowl
+Kangaroo
+Kangaroo Mouse
+Kangaroo Rat
+Kentrosaurus
+Kingfisher
+Kite
+Kiwi
+Koala Bear
+Koi
+Komodo Dragon
+Krill
+Ladybug
+Lamprey
+Lambeosaurus
+Landfowl
+Land Snail
+Lapwing
+Lark
+Leech
+Lemming
+Lemur
+Leopard
+Leopon
+Limpet
+Lion
+Lionfish
+Lizard
+Llama
+Lobster
+Locust
+Loon
+Loris
+Louse
+Lungfish
+Lynx
+Macaw
+Mackerel
+Magpie
+Mallard
+Manatee
+Mandrill
+Manta ray
+Marlin
+Marmoset
+Marmot
+Marten
+Mastodon
+Maya
+Meadowlark
+Meerkat
+Megamouth Shark
+Mink
+Minnow
+Mite
+Mockingbird
+Mole
+Mollusk
+Mongoose
+Monitor Lizard
+Monkey
+Moose
+Mosquito
+Moth
+Mountain Goat
+Mouse
+Mule
+Muskox
+Narwhale
+Needlefish
+Newt
+New World Quail
+Nighthawk
+Nightingale
+Nile Crocodile
+Numbat
+Ocelot
+Octopus
+Okapi
+Old World Quail
+Olingo
+Opossum
+Orangutan
+Orca
+Oribi
+Ostrich
+Otter
+Oviraptor
+Owl
+Owl-faced monkey
+Ox
+Pacycephalosaurus
+Panda Bear
+Panther
+Parakeet
+Parasaurolophus
+Parrot
+Parrotfish
+Partridge
+Peacock
+Peafowl
+Pelican
+Penguin
+Perch
+Peregrine Falcon
+Pheasant
+Pig
+Pigeon
+Pike
+Pilot Whale
+Piranha
+Planarian
+Plateosaurus
+Platypus
+Polar bear
+Pony
+Porcupine
+Porpoise
+Portuguese Man O' War
+Possum
+Prairie Dog
+Prawn
+Praying Mantis
+Ptarmigan
+Puffin
+Puma
+Pygmy Hippopotamus
+Python
+Quail
+Quetzal
+Quetzalcoatlus
+Quokka
+Rabbit
+Raccoon
+Rainbow Trout
+Rat
+Rattlesnake
+Raven
+Ray
+Red Deer
+Red Fox
+Red Panda
+Red Squirrel
+Reindeer
+Rhinoceros
+Right Whale
+Roadrunner
+Rook
+Rooster
+Roundworm
+Saber-Toothed Cat
+Sailfish
+Salamander
+Salmon
+Sawfish
+Scale Insect
+Scallop
+Scorpion
+Seahorse
+Sea Lion
+Sea Slug
+Sea Snail
+Serval
+Shark
+Sheep
+Shrew
+Shrimp
+Silkworm
+Silverfish
+Skate
+Skink
+Skunk
+Sloth
+Slug
+Smelt
+Snail
+Snake
+Snipe
+Snow Leopard
+Sockeye Salmon
+Sole
+Sparrow
+Sperm Whale
+Spider
+Spider Monkey
+Spinosaurus
+Spoonbill
+Squid
+Squirrel
+Starfish
+Star-Nosed Mole
+Stegosaurus
+Stingray
+Stoat
+Stork
+Sturgeon
+Struthiomimus
+Styracosaurus
+Suchomimus
+Sugar Glider
+Sumatran Rhinoceros
+Swallow
+Swan
+Swift
+Swordfish
+Swordtail
+Tahr
+Takin
+Tapir
+Tarantula
+Tarsier
+Tasmanian Devil
+Termite
+Tern
+Terrapin
+Thrush
+Tick
+Tiger
+Tiger Shark
+Tiglon
+Titi
+Toad
+Tortoise
+Toucan
+Trapdoor spider
+Triceratops
+Tree Frog
+Trout
+Tuna
+Turkey
+Turtle
+Tyrannosaurus Rex
+Urial
+Unicorn
+Uakari
+Umbrella Bird
+Vampire Bat
+Vampire Squid
+Vaquita
+Velociraptor
+Vicuña
+Viper
+Vixen
+Vole
+Vulture
+Wallaby
+Walrus
+Wasp
+Warbler
+Waterbuck
+Water Buffalo
+Water Chevrotain
+Weasel
+Whale
+Whippet
+Whitefish
+White Rhinoceros
+Whooping Crane
+Wild Boar
+Wildcat
+Wildebeest
+Wildfowl
+Wolf
+Wolverine
+Wombat
+Wood Lemming
+Woodchuck
+Woodpecker
+Woolly Dormouse
+Woolly Hare
+Woolly Mammoth
+Woolly Rhinoceros
+Worm
+Wren
+X-ray fish
+Yak
+Yapok
+Yellow Jacket
+Yellow perch
+Zebra
+Zebra Duiker
+Zebra Finch
+Zebra Shark
+Zebu
+Zorilla
+
+// From http://www.madridteacher.com/Activities/Files/images/objects/worksheets/common-objects-list-with-word.htm
+Address book
+Ashtray
+Backpack
+Batteries
+box
+brush
+calendar
+cassette
+Box
+Brush
+Calendar
+Cassette
+cd player
+comb
+computer
+match
+CD Player
+Comb
+Computer
+Match
+film
+folder
+lipstick
+make-up
+Roll of Film
+Folder
+Lipstick
+Make-up
+mirror
+notebook
+note pad
+pack of cigarettes
+Mirror
+Notebook
+Notepad
+Pack of cigarettes
+pencil
+perfume
+radio cassette player
+scissors
+Pencil
+Perfume
+Radio cassette player
+Scissors
+speakers
+stereo system
+telephone
+television
+Speakers
+Stereo system
+Telephone
+Television
+tickets
+trash can
+video camera
+cd
+Tickets
+Trash can
+Video camera
+CD
+pen
+
+// from http://www.manythings.org/vocabulary/lists/l/words.php?f=ogden-picturable
+angle
+ant
+apple
+arch
+arm
+army
+baby
+bag
+ball
+band
+basin
+basket
+bath
+bed
+bee
+bell
+berry
+bird
+blade
+board
+boat
+bone
+book
+boot
+bottle
+box
+boy
+brain
+brake
+branch
+brick
+bridge
+brush
+bucket
+bulb
+button
+cake
+camera
+card
+cart
+carriage
+cat
+chain
+cheese
+chest
+chin
+church
+circle
+clock
+cloud
+coat
+collar
+comb
+cord
+cow
+cup
+curtain
+cushion
+dog
+door
+drain
+drawer
+dress
+drop
+ear
+egg
+engine
+eye
+face
+farm
+feather
+finger
+fish
+flag
+floor
+fly
+foot
+fork
+fowl
+frame
+garden
+girl
+glove
+goat
+gun
+hair
+hammer
+hand
+hat
+head
+heart
+hook
+horn
+horse
+hospital
+house
+island
+jewel
+kettle
+key
+knee
+knife
+knot
+leaf
+leg
+library
+line
+lip
+lock
+map
+match
+monkey
+moon
+mouth
+muscle
+nail
+neck
+needle
+nerve
+net
+nose
+nut
+office
+orange
+oven
+parcel
+pen
+pencil
+picture
+pig
+pin
+pipe
+plane
+plate
+plow
+pocket
+pot
+potato
+prison
+pump
+rail
+rat
+receipt
+ring
+rod
+roof
+root
+sail
+school
+scissors
+screw
+seed
+sheep
+shelf
+ship
+shirt
+shoe
+skin
+skirt
+snake
+sock
+spade
+sponge
+spoon
+spring
+square
+stamp
+star
+station
+stem
+stick
+stocking
+stomach
+store
+street
+sun
+table
+tail
+thread
+throat
+thumb
+ticket
+toe
+tongue
+tooth
+town
+train
+tray
+tree
+trousers
+umbrella
+wall
+watch
+wheel
+whip
+whistle
+window
+wing
+wire
+worm
+// http://www.manythings.org/vocabulary/lists/a/
+drill
+hammer
+knife
+plane
+pliers
+saw
+scissors
+screwdriver
+vise
+wrench
+// http://www.manythings.org/vocabulary/lists/a/
+airplane
+bicycle
+boat
+bus
+car
+helicopter
+horse
+jet
+motorcycle
+ship
+subway
+taxi
+train
+truck
+// http://www.manythings.org/vocabulary/lists/a/
+asparagus
+beans
+broccoli
+cabbage
+carrot
+celery
+corn
+cucumber
+eggplant
+green pepper
+lettuce
+onion
+peas
+potato
+pumpkin
+radish
+spinach
+sweet potato
+tomato
+turnip
+// http://www.manythings.org/vocabulary/lists/a/
+attic
+basement
+bath tub
+bathroom
+bed
+bedroom
+blanket
+bookcase
+carpet
+ceiling
+chair
+closet
+couch
+curtain
+desk
+dining room
+door
+fan
+floor
+furniture
+garage
+hall
+hallway
+key
+kitchen
+lamp
+living room
+lock
+mirror
+picture
+porch
+roof
+room
+rug
+shelf
+sink
+sofa
+stairs
+table
+toilet
+wall
+window
+beach
+desert
+forest
+hill
+// http://www.manythings.org/vocabulary/lists/a/
+mountain
+ocean
+pond
+river
+lake
+sea
+stream
+valley
+waterfall
+woods
+// http://www.manythings.org/vocabulary/lists/a/
+apple
+banana
+cherry
+grapefruit
+grapes
+lemon
+lime
+melon
+orange
+peach
+pear
+persimmon
+pineapple
+plum
+strawberry
+tangerine
+watermelon
+// http://www.manythings.org/vocabulary/lists/a/
+aunt
+brother
+cousin
+daughter
+father
+granddaughter
+grandmother
+grandson
+mother
+nephew
+niece
+sister
+son
+stepdaughter
+stepmother
+stepson
+uncle
+// http://www.manythings.org/vocabulary/lists/a/
+bowl
+cup
+dish
+fork
+glass
+knife
+mug
+napkin
+pepper
+pitcher
+plate
+salad
+salt
+saucer
+spoon
+sugar
+// http://www.manythings.org/vocabulary/lists/a/
+pie
+
+cake
+candy
+chocolate bar
+cookie
+donut
+doughnut
+fruit
+ice cream
+muffin
+pie
+potato chips
+pudding
+sweet roll
+// http://www.manythings.org/vocabulary/lists/a/
+bake
+boil
+broil
+can opener
+fry
+grill
+measuring cup
+measuring spoon
+microwave
+mixing bowl
+paper towels
+poach
+potholder
+roast
+rolling pin
+scramble
+simmer
+knife
+spoon
+spatula
+steam
+strainer
+timer
+fork
+// http://www.manythings.org/vocabulary/lists/a/
+belt
+boots
+cap
+coat
+dress
+gloves
+hat
+jacket
+jeans
+pajamas
+pants
+raincoat
+scarf
+shirt
+shoes
+skirt
+slacks
+slippers
+socks
+stockings
+suit
+sweater
+sweatshirt
+t-shirt
+tie
+trousers
+underclothes
+underpants
+undershirt
+// http://www.manythings.org/vocabulary/lists/a/
+blackboard
+blackboard eraser
+book
+bookcase
+bulletin board
+calendar
+chair
+chalk
+clock
+computer
+desk
+dictionary
+eraser
+map
+notebook
+pen
+pencil
+pencil sharpener
+textbook
+white board
+park
+store
+post office
+// http://www.manythings.org/vocabulary/lists/a/
+bank
+street
+road
+parking meter
+pedestrian crossing
+bus stop
+train station
+fire station
+police station
+// http://www.manythings.org/vocabulary/lists/a/
+accelerator
+battery
+blinker
+brake
+bumper
+clutch
+dashboard
+gear
+headlight
+horn
+hubcap
+license plate
+rearview mirror
+seat
+speedometer
+taillight
+tire
+trunk
+turn signal
+wheel
+windshield
+windshield wiper
+// http://www.manythings.org/vocabulary/lists/a/
+airport
+apartment building
+bank
+barber shop
+book store
+bowling alley
+bus stop
+church
+convenience store
+department store
+fire department
+gas station
+hospital
+house
+library
+movie theater
+museum
+office building
+post office
+restaurant
+school
+mall
+supermarket
+train station
+// http://www.manythings.org/vocabulary/lists/a/
+back
+cheeks
+chest
+chin
+ears
+eyebrows
+eyes
+feet
+fingers
+foot
+forehead
+hair
+hands
+head
+hips
+knees
+legs
+lips
+mouth
+neck
+nose
+shoulders
+stomach
+teeth
+teeth
+throat
+toes
+tongue
+tooth
+waist
+// http://www.manythings.org/vocabulary/lists/a/
+ball
+cap
+bat
+batter
+bunt
+catch
+catcher
+coach
+curve
+dugout
+fence
+field
+umpire
+first baseman
+foul
+foul line
+four ball
+glove
+helmet
+hit
+home plate
+inning
+left fielder
+major league
+minor league
+pitch
+pitcher
+right fielder
+run
+runner
+scoreboard
+second baseman
+short stop
+slide
+steal
+strike
+strike out
+third baseman
+throw
+walk
+// http://www.manythings.org/vocabulary/lists/a/
+account
+bills
+borrow
+alarm
+cash
+cashier
+check
+coins
+credit
+credit card
+currency
+customer
+deposit
+interest
+lend
+loan
+manager
+money
+mortgage
+pay
+save
+savings
+guard
+teller
+vault
+withdraw
+// http://www.manythings.org/vocabulary/lists/a/
+alligator
+ant
+bear
+bee
+bird
+camel
+cat
+cheetah
+chicken
+chimpanzee
+cow
+crocodile
+deer
+dog
+dolphin
+duck
+eagle
+elephant
+fish
+fly
+fox
+frog
+giraffe
+goat
+goldfish
+hamster
+hippopotamus
+horse
+kangaroo
+kitten
+lion
+lobster
+monkey
+octopus
+owl
+panda
+pig
+puppy
+rabbit
+rat
+scorpion
+seal
+shark
+sheep
+snail
+snake
+spider
+squirrel
+tiger
+turtle
+wolf
+zebra

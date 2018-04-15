@@ -1,0 +1,13 @@
+Sizes
+
+01      Ladybug, Insect
+02      Thumbnail, US Quarter
+03      Finger
+04      Hand, Baseball
+05      Forearm, Loaf of bread, cat
+06      One arm length
+07      Adult Person
+08      Car
+09      House, Tree
+10      Football Field
+11      Mountain
