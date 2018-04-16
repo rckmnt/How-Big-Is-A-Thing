@@ -21,14 +21,14 @@ def get_hypernym(askedfor):
     if word.synsets:
         plant = word.synsets[0]
         plainword = [h.name().split(".")[0] for h in  plant.hypernyms()]
-        print(plainword[0])
+        print('A {} is a/an {}'.format(askedfor, plainword[0]))
         return(plainword)
     else:
         print('{} is NOT a word'.format(askedfor))
         return('{} is NOT a word'.format(askedfor))
 
-get_hypernym("balls")
-get_hypernym("penis")
+get_hypernym("pool")
+get_hypernym("sushi")
 get_hypernym("sddfds")
 get_hypernym("shame")
 get_hypernym("pickup_truck")
