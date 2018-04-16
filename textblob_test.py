@@ -37,6 +37,7 @@ get_hypernym("mailbox")
 
 
 
+
 """
 print(word.synsets[:5])
 print(word.definitions[:5])
