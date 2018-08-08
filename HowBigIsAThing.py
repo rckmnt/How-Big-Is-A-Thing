@@ -42,8 +42,8 @@ test_words = ["pool", "sushi", "dog", "sddfds", "shame", "pickup_truck", "africa
 test_words_2 = ["bug", "fox", "salad", "chair", "table", "nintendo", "trash_can"]
 
 
-for t in test_words:
-    get_hypernym(t)
+# for t in test_words:
+#     get_hypernym(t)
 
 
 # Import my edited MTurk'd corpus of ~1200 words and sizes
@@ -171,8 +171,8 @@ def how_big_is_a(askedfor, counter):
 
 
 
-how_big_is_a("headache", 0)
-how_big_is_a("sandwich", 0)
+# how_big_is_a("headache", 0)
+# how_big_is_a("sandwich", 0)
 
 
 
