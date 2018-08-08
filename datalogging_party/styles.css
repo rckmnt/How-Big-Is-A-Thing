@@ -1,0 +1,108 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    margin-top: 100px;
+    color: #222222;
+    background-color: white;
+    /*max-width: 800px;*/
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 80%;
+    padding-top: 100px;
+}
+
+.content pre {
+    background-color: #fff;
+    border: none;
+}
+
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+strong p{
+    /*size:.7em;*/
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#genericObject{
+    /*font-size: 30px;*/
+    margin: auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#genericObject h1{
+    font-size: 60px;
+    vertical-align: center;
+}
+
+/*Button styling*/
+
+
+button{
+/*    display: inline-block;*/
+    width: 8%;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+button p{
+    font-size: 0.9em;
+    text-align: center;
+   /* margin-left: -100%;
+    margin-right: -100%;*/
+}
+
+button strong{
+    font-size: 1.2em;
+    text-align: center;
+    font-style: bold;
+/*    margin-left: -100%;
+    margin-right: -100%;*/
+}
+
+.button-container {
+  height: 300px;
+  font-size: 0.8em;
+  flex-grow: 1;
+  /*flex-basis: 10%;*/
+  justify-content: space-between;
+}
+
+.button-container ul{
+    font-size: 0.6em;
+}
+
+.button-container li{
+    font-size: 0.6em;
+}
+
+
+/*Google Login buttons at bottom*/
+
+div #logins{
+    font-size: 0.8em;
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+}
+
+
+div #logins p{
+    font-size: 0.8em;
+}
+
+div #logins button{
+    width: 100px;
+}
+
