@@ -1,4 +1,4 @@
-"""howbig URL Configuration
+"""howbig_django URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.1/topics/http/urls/
@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
-from howbig_app import views
+from howbig_django_app import views
 
 urlpatterns = [
     url(r'^$', views.home, name='home'),
